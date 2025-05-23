@@ -1,6 +1,6 @@
 DataMigrator is a Java-based utility designed to migrate data and schemas from a MySQL database to a PostgreSQL
 database.
-It uses multithreading to handle large datasets efficiently converts MySQL DDL to be PostgreSQL-compatible, using
+It uses multithreading to handle large datasets, efficiently converts MySQL DDL to be PostgreSQL-compatible, using
 JSQLParser.
 
 ### 📌 **Features**
